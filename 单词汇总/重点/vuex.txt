@@ -1,0 +1,8 @@
+store
+state
+getter
+mutation
+action
+module
+commit
+dispath
